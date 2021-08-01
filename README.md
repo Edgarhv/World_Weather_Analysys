@@ -1,4 +1,4 @@
-# World_Weather_Analysys
+# World_Weather_Analysis
 
 ![img](FondAnchoredGoose-mobile.gif)
 
