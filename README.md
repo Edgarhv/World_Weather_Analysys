@@ -26,7 +26,8 @@ We used Google Maps API to plot different travel destinations with a hotel at ea
 
 ## Vacation Itinerary
 We used Google Maps directions API to create a vacation itinerary. For example, the image below shows a 5 stop itinerary( Lompoc, Fortuna, Portland, Terrace, and Homer)between the United States and Canada.
-![img](WeatherPy_travel_map_markers.png)
+![img](WeatherPy_travel_map.png)
+###### I recreated the route that people walk to go to Alaska from the United States.
 
 Also, we create another map to show a hotel at each location.
 ![img](WeatherPy_travel_map_markers.png)
