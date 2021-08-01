@@ -29,4 +29,4 @@ We used Google Maps directions API to create a vacation itinerary. For example, 
 ![img](WeatherPy_travel_map.png)
 
 Also, we create another map to show a hotel at each location.
-![img](WeatherPy_travel_map.png)
+![img](WeatherPy_travel_map_markers.png)
