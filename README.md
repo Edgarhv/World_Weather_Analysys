@@ -22,3 +22,7 @@ Also, We generate a set of 2,000 random latitudes and longitudes, retrieve the n
 
 ## Vacation Search
 We used Google Maps API to plot different travel destinations with a hotel at each location. Furthermore, the image below shows the locations of all the places in the database that have a daily maximum temperature between 50 and 120 degrees.
+![img](WeatherPy_vacation_map.png)
+
+## Vacation Itinerary
+We used Google Maps directions API to create a vacation itinerary. For example, the image below shows a 5 stop itinerary( Lompoc, Fortuna, Portland, Terrace, and Homer)between the United States and Canada.
